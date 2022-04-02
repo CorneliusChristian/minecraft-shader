@@ -4,4 +4,4 @@ ComplementaryShaders_v4.4
 KUDA-Shaders v6.1 Legacy
 SEUS PTGI E12
 SEUS Renewed v1.0.1
-Continuum-2.0.4
+continuum-2.0.4

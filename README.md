@@ -14,14 +14,14 @@ This shaders is compatible to older devices or low-end
 # Sildurs Vibrant with POM
 ![App Screenshot](https://i.imgur.com/hf8b8Jh.jpg)
 # Chocapic13's Shader
-![](https://media.forgecdn.net/attachments/281/626/2020-03-14_11.jpg)
-![](https://media.forgecdn.net/attachments/thumbnails/281/624/310/172/2020-03-14_11.jpeg)
-![](https://media.forgecdn.net/attachments/thumbnails/281/628/310/172/2020-03-11_19.jpg)
-![](https://media.forgecdn.net/attachments/thumbnails/281/640/310/172/2020-03-14_13.jpg)
+![](https://i.imgur.com/7w2m2Fu.jpg)
+![](https://i.imgur.com/Va9AvbF.jpg)
+![](https://i.imgur.com/PKhWfM9.jpg)
+![](https://i.imgur.com/v7tmQST.jpg)
 # Makeup Ultrafast
-![](https://media.forgecdn.net/attachments/434/190/covernew7.jpg)
-![](https://media.forgecdn.net/attachments/434/196/day7.jpg)
-![](https://media.forgecdn.net/attachments/434/194/sunset7.jpg)
+![](https://i.imgur.com/eSXbFPH.jpg)
+![](https://i.imgur.com/Dip6uPm.jpg)
+![](https://i.imgur.com/38BJKq3.jpg)
 # Werrus Shader
 ![](https://tlauncher.org/images/1485760801-63016f3b55669eaf4c273a9b83c41825.png)
 ![](https://i.gyazo.com/9cf3929b198e01468877a7c59b7323f0.png)

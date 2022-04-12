@@ -1,0 +1,7 @@
+Builders_QOL_Shaders_V2.8.2
+Chocapic13_HighPerformance_Toaster
+Chocapic13_V8_High_ReleaseCandidate
+MakeUp-UltraFast-7.02
+Sildur's+Enhanced+Default+v1.131+Fast
+Sildur's+Vibrant+Shaders+v1.31+Lite
+Sildur's+Vibrant+Shaders+v1.32+Medium
